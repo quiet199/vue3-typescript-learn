@@ -1,4 +1,4 @@
-# vue3-typescript-learn
+# vue3-typescript-learn(vue3,typescript初始化项目)
 
 ## Project setup(项目设置)
 ```
